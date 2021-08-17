@@ -1,6 +1,6 @@
 [submodule "build/libvpx"]
 	path = build/libvpx
-	url = https://chromium.googlesource.com/webm/libvpx
+	url = https://github.com/webmproject/libvpx.git
 	ignore = dirty
 [submodule "build/opus"]
 	path = build/opus
